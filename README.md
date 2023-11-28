@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Ykaro dos Santos 😁
+## Bem-vindo(a) ao perfil de Ykaro dos Santos!
 
  <div>
    <a href="https://github.com/ykarocin">
@@ -17,7 +17,8 @@
  
 <div> 
   <a href="https://instagram.com/ykaro_dsa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "ykaro01.11.02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "ysa@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/ykaro-dos-santos-3b1a47203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ykarocin/ykarocin/blob/output/github-contribution-grid-snake.svg)
 
